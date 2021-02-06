@@ -1,0 +1,1 @@
+React.js has been sued to design a project to roll two dices as the user clicks on the button.The button is disabled while the dice are still rolling. Animation in css has been used to show the rolling/shaking effect.
